@@ -3,163 +3,163 @@
 	{
 		"abr": ".303britishcartridge(ap)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_AP"
 	},
 	{
 		"abr": ".303britishcartridge(ap-i)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_Incendiary"
 	},
 	{
 		"abr": ".303britishcartridge(fmj)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_FMJ"
 	},
 	{
 		"abr": ".303britishcartridge(he)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_HE"
 	},
 	{
 		"abr": ".303britishcartridge(hp)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_HP"
 	},
 	{
 		"abr": ".303britishcartridge(sabot)",
 		"price": 1,
-		"category": ".303 British",
+		"category": "Munition",
 		"defname": "Ammo_303British_Sabot"
 	},
 	{
 		"abr": ".410boreshell(buck)",
 		"price": 1,
-		"category": ".410 Bore",
+		"category": "Munition",
 		"defname": "Ammo_410Bore_Buck"
 	},
 	{
 		"abr": ".44magnumcartridge(ap)",
 		"price": 1,
-		"category": ".44 Magnum",
+		"category": "Munition",
 		"defname": "Ammo_44Magnum_AP"
 	},
 	{
 		"abr": ".44magnumcartridge(fmj)",
 		"price": 1,
-		"category": ".44 Magnum",
+		"category": "Munition",
 		"defname": "Ammo_44Magnum_FMJ"
 	},
 	{
 		"abr": ".44magnumcartridge(hp)",
 		"price": 1,
-		"category": ".44 Magnum",
+		"category": "Munition",
 		"defname": "Ammo_44Magnum_HP"
 	},
 	{
 		"abr": ".45acpcartridge(ap)",
 		"price": 1,
-		"category": ".45 ACP",
+		"category": "Munition",
 		"defname": "Ammo_45ACP_AP"
 	},
 	{
 		"abr": ".45acpcartridge(fmj)",
 		"price": 1,
-		"category": ".45 ACP",
+		"category": "Munition",
 		"defname": "Ammo_45ACP_FMJ"
 	},
 	{
 		"abr": ".45acpcartridge(hp)",
 		"price": 1,
-		"category": ".45 ACP",
+		"category": "Munition",
 		"defname": "Ammo_45ACP_HP"
 	},
 	{
 		"abr": ".45coltcartridge(ap)",
 		"price": 1,
-		"category": ".45 Colt",
+		"category": "Munition",
 		"defname": "Ammo_45Colt_AP"
 	},
 	{
 		"abr": ".45coltcartridge(fmj)",
 		"price": 1,
-		"category": ".45 Colt",
+		"category": "Munition",
 		"defname": "Ammo_45Colt_FMJ"
 	},
 	{
 		"abr": ".45coltcartridge(hp)",
 		"price": 1,
-		"category": ".45 Colt",
+		"category": "Munition",
 		"defname": "Ammo_45Colt_HP"
 	},
 	{
 		"abr": ".50bmgcartridge(ap-he)",
 		"price": 2,
-		"category": ".50 BMG",
+		"category": "Munition",
 		"defname": "Ammo_50BMG_HE"
 	},
 	{
 		"abr": ".50bmgcartridge(ap-i)",
 		"price": 1,
-		"category": ".50 BMG",
+		"category": "Munition",
 		"defname": "Ammo_50BMG_Incendiary"
 	},
 	{
 		"abr": ".50bmgcartridge(fmj)",
 		"price": 1,
-		"category": ".50 BMG",
+		"category": "Munition",
 		"defname": "Ammo_50BMG_FMJ"
 	},
 	{
 		"abr": ".50bmgcartridge(sabot)",
 		"price": 1,
-		"category": ".50 BMG",
+		"category": "Munition",
 		"defname": "Ammo_50BMG_Sabot"
 	},
 	{
 		"abr": "12gaugechargedshell",
 		"price": 3,
-		"category": "12Gauge Charged",
+		"category": "Munition",
 		"defname": "Ammo_12GaugeCharged"
 	},
 	{
 		"abr": "12gaugechargedshell(ionslug)",
 		"price": 3,
-		"category": "12Gauge Charged",
+		"category": "Munition",
 		"defname": "Ammo_12GaugeCharged_Ion"
 	},
 	{
 		"abr": "12gaugechargedshell(slug)",
 		"price": 3,
-		"category": "12Gauge Charged",
+		"category": "Munition",
 		"defname": "Ammo_12GaugeCharged_Slug"
 	},
 	{
 		"abr": "12gaugeshell(bean)",
 		"price": 1,
-		"category": "12 gauge",
+		"category": "Munition",
 		"defname": "Ammo_12Gauge_Beanbag"
 	},
 	{
 		"abr": "12gaugeshell(buck)",
 		"price": 1,
-		"category": "12 gauge",
+		"category": "Munition",
 		"defname": "Ammo_12Gauge_Buck"
 	},
 	{
 		"abr": "12gaugeshell(emp)",
 		"price": 2,
-		"category": "12 gauge",
+		"category": "Munition",
 		"defname": "Ammo_12Gauge_ElectroSlug"
 	},
 	{
 		"abr": "12gaugeshell(slug)",
 		"price": 2,
-		"category": "12 gauge",
+		"category": "Munition",
 		"defname": "Ammo_12Gauge_Slug"
 	},
 	{
@@ -651,13 +651,13 @@
 	{
 		"abr": "agavemosto",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_AgaveMosto"
 	},
 	{
 		"abr": "agavenectar",
 		"price": 7,
-		"category": "Processed sweets",
+		"category": "verarbeitetes Süsses",
 		"defname": "RC2_AgaveNectar"
 	},
 	{
@@ -711,7 +711,7 @@
 	{
 		"abr": "ale",
 		"price": 15,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Ale"
 	},
 	{
@@ -759,13 +759,13 @@
 	{
 		"abr": "ambrosiamust",
 		"price": 83,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_AmbrosiaMust"
 	},
 	{
 		"abr": "ambrosianectar",
 		"price": 208,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_AmbrosiaNectar"
 	},
 	{
@@ -777,7 +777,7 @@
 	{
 		"abr": "anchovy",
 		"price": 2,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawAnchovy"
 	},
 	{
@@ -807,13 +807,13 @@
 	{
 		"abr": "angelfish",
 		"price": 5,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawAngelfish"
 	},
 	{
 		"abr": "anglerfish",
 		"price": 2,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawAnglerfish"
 	},
 	{
@@ -843,13 +843,13 @@
 	{
 		"abr": "applemust",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_AppleMust"
 	},
 	{
 		"abr": "apples",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawApples"
 	},
 	{
@@ -975,7 +975,7 @@
 	{
 		"abr": "arrack",
 		"price": 33,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Arrack"
 	},
 	{
@@ -1011,7 +1011,7 @@
 	{
 		"abr": "asparagus",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawAsparagus"
 	},
 	{
@@ -1137,7 +1137,7 @@
 	{
 		"abr": "bananas",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawBanana"
 	},
 	{
@@ -1191,7 +1191,7 @@
 	{
 		"abr": "barley",
 		"price": 2,
-		"category": "Raw grains",
+		"category": "Getreide",
 		"defname": "RC2_RawBarley"
 	},
 	{
@@ -1227,7 +1227,7 @@
 	{
 		"abr": "bass",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawBass"
 	},
 	{
@@ -1299,7 +1299,7 @@
 	{
 		"abr": "beets",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawBeets"
 	},
 	{
@@ -1407,73 +1407,73 @@
 	{
 		"abr": "bionicanimalarm",
 		"price": 892,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicArmAnimal"
 	},
 	{
 		"abr": "bionicanimalbrainstimulator",
 		"price": 1508,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "AnimalBrainStimulator"
 	},
 	{
 		"abr": "bionicanimalearimplant",
 		"price": 867,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "EarAnimalBionic"
 	},
 	{
 		"abr": "bionicanimaleye",
 		"price": 867,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicEyeAnimal"
 	},
 	{
 		"abr": "bionicanimalheart",
 		"price": 667,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicAnimalHeart"
 	},
 	{
 		"abr": "bionicanimaljaw",
 		"price": 867,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "JawAnimalBionic"
 	},
 	{
 		"abr": "bionicanimalkidney",
 		"price": 483,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicAnimalKidney"
 	},
 	{
 		"abr": "bionicanimalleg",
 		"price": 892,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicLegAnimal"
 	},
 	{
 		"abr": "bionicanimalliver",
 		"price": 483,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicAnimalLiver"
 	},
 	{
 		"abr": "bionicanimallung",
 		"price": 483,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicAnimalLung"
 	},
 	{
 		"abr": "bionicanimalspine",
 		"price": 1050,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "SpineAnimalBionic"
 	},
 	{
 		"abr": "bionicanimalstomach",
 		"price": 492,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "BionicAnimalStomach"
 	},
 	{
@@ -1659,7 +1659,7 @@
 	{
 		"abr": "brandy",
 		"price": 133,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Brandy"
 	},
 	{
@@ -1677,7 +1677,7 @@
 	{
 		"abr": "breadfruit",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawBreadfruit"
 	},
 	{
@@ -1725,13 +1725,13 @@
 	{
 		"abr": "cabbages",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawCabbages"
 	},
 	{
 		"abr": "cactusfruit",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawCactusFruit"
 	},
 	{
@@ -1755,7 +1755,7 @@
 	{
 		"abr": "cannedfruit",
 		"price": 17,
-		"category": "Processed fruits",
+		"category": "verarbeitete Früchte",
 		"defname": "RC2_CannedFruit"
 	},
 	{
@@ -1767,13 +1767,13 @@
 	{
 		"abr": "cannedmeat",
 		"price": 20,
-		"category": "Processed meat",
+		"category": "verarbeitetes Fleisch",
 		"defname": "RC2_CannedMeat"
 	},
 	{
 		"abr": "cannedvegetables",
 		"price": 17,
-		"category": "Processed vegetables",
+		"category": "verarbeitetes Vegetarisches",
 		"defname": "RC2_CannedVegetables"
 	},
 	{
@@ -1791,13 +1791,13 @@
 	{
 		"abr": "carrots",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawCarrots"
 	},
 	{
 		"abr": "catfish",
 		"price": 7,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawCatfish"
 	},
 	{
@@ -1851,7 +1851,7 @@
 	{
 		"abr": "cheese",
 		"price": 5,
-		"category": "Processed animal products",
+		"category": "verarbeitetes Tierprodukt",
 		"defname": "RC2_Cheese"
 	},
 	{
@@ -1887,13 +1887,13 @@
 	{
 		"abr": "cherries",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawCherries"
 	},
 	{
 		"abr": "chickpeas",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawChickpeas"
 	},
 	{
@@ -1911,7 +1911,7 @@
 	{
 		"abr": "chilipeppers",
 		"price": 3,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawPeppers"
 	},
 	{
@@ -1941,7 +1941,7 @@
 	{
 		"abr": "cider",
 		"price": 23,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Cider"
 	},
 	{
@@ -1971,7 +1971,7 @@
 	{
 		"abr": "citrusfruits",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawOrange"
 	},
 	{
@@ -2001,7 +2001,7 @@
 	{
 		"abr": "clownfish",
 		"price": 2,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawClownfish"
 	},
 	{
@@ -2067,19 +2067,19 @@
 	{
 		"abr": "coconutwort",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_CoconutWort"
 	},
 	{
 		"abr": "coconuts",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawCoconut"
 	},
 	{
 		"abr": "cod",
 		"price": 7,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawCod"
 	},
 	{
@@ -2187,7 +2187,7 @@
 	{
 		"abr": "cornmash",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_CornMash"
 	},
 	{
@@ -2337,7 +2337,7 @@
 	{
 		"abr": "cucumbers",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawCucumbers"
 	},
 	{
@@ -2457,13 +2457,13 @@
 	{
 		"abr": "driedfruit",
 		"price": 3,
-		"category": "Processed fruits",
+		"category": "verarbeitete Früchte",
 		"defname": "RC2_DriedFruit"
 	},
 	{
 		"abr": "driedmeat",
 		"price": 4,
-		"category": "Processed meat",
+		"category": "verarbeitetes Fleisch",
 		"defname": "RC2_DriedMeat"
 	},
 	{
@@ -2511,7 +2511,7 @@
 	{
 		"abr": "durians",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawDurians"
 	},
 	{
@@ -2529,7 +2529,7 @@
 	{
 		"abr": "eel",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawEel"
 	},
 	{
@@ -2541,7 +2541,7 @@
 	{
 		"abr": "eggplants",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawEggplants"
 	},
 	{
@@ -2913,7 +2913,7 @@
 	{
 		"abr": "figs",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawFigs"
 	},
 	{
@@ -2955,7 +2955,7 @@
 	{
 		"abr": "flour",
 		"price": 5,
-		"category": "Processed grains",
+		"category": "verarbeitetes Getreide",
 		"defname": "RC2_Flour"
 	},
 	{
@@ -3015,13 +3015,13 @@
 	{
 		"abr": "fruitmust",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_FruitMust"
 	},
 	{
 		"abr": "fruitpreserves",
 		"price": 10,
-		"category": "Processed fruits",
+		"category": "verarbeitete Früchte",
 		"defname": "RC2_FruitPreserves"
 	},
 	{
@@ -3033,7 +3033,7 @@
 	{
 		"abr": "fruitwine",
 		"price": 22,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_FruitWine"
 	},
 	{
@@ -3249,7 +3249,7 @@
 	{
 		"abr": "gin",
 		"price": 43,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Gin"
 	},
 	{
@@ -3261,7 +3261,7 @@
 	{
 		"abr": "ginprecursor",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_GinPrecursor"
 	},
 	{
@@ -3321,7 +3321,7 @@
 	{
 		"abr": "goldfish",
 		"price": 17,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawGoldfish"
 	},
 	{
@@ -3339,13 +3339,13 @@
 	{
 		"abr": "grapemust",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_GrapeMust"
 	},
 	{
 		"abr": "grapes",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawGrapes"
 	},
 	{
@@ -3399,7 +3399,7 @@
 	{
 		"abr": "grog",
 		"price": 3,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Grog"
 	},
 	{
@@ -3459,7 +3459,7 @@
 	{
 		"abr": "guppy",
 		"price": 2,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawGuppy"
 	},
 	{
@@ -3471,7 +3471,7 @@
 	{
 		"abr": "haddock",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawHaddock"
 	},
 	{
@@ -3483,7 +3483,7 @@
 	{
 		"abr": "halibut",
 		"price": 12,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawHalibut"
 	},
 	{
@@ -3591,7 +3591,7 @@
 	{
 		"abr": "herring",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawHerring"
 	},
 	{
@@ -3735,7 +3735,7 @@
 	{
 		"abr": "honeymust",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_HoneyMust"
 	},
 	{
@@ -3939,7 +3939,7 @@
 	{
 		"abr": "juniperberries",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawJuniperBerries"
 	},
 	{
@@ -4065,7 +4065,7 @@
 	{
 		"abr": "koi",
 		"price": 7,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawKoi"
 	},
 	{
@@ -4167,7 +4167,7 @@
 	{
 		"abr": "kumis",
 		"price": 17,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Kumis"
 	},
 	{
@@ -4179,7 +4179,7 @@
 	{
 		"abr": "kumismust",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_KumisMust"
 	},
 	{
@@ -4455,7 +4455,7 @@
 	{
 		"abr": "lobster",
 		"price": 20,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawLobster"
 	},
 	{
@@ -4545,7 +4545,7 @@
 	{
 		"abr": "mackerel",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawMackerel"
 	},
 	{
@@ -4635,7 +4635,7 @@
 	{
 		"abr": "mead",
 		"price": 20,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Mead"
 	},
 	{
@@ -4785,7 +4785,7 @@
 	{
 		"abr": "melons",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawMelons"
 	},
 	{
@@ -4905,7 +4905,7 @@
 	{
 		"abr": "minnow",
 		"price": 2,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawMinnow"
 	},
 	{
@@ -4935,13 +4935,13 @@
 	{
 		"abr": "moonshine",
 		"price": 23,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Moonshine"
 	},
 	{
 		"abr": "moonshineprecursor",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_MoonshinePrecursor"
 	},
 	{
@@ -5259,13 +5259,13 @@
 	{
 		"abr": "oatwort",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_OatWort"
 	},
 	{
 		"abr": "oats",
 		"price": 2,
-		"category": "Raw grains",
+		"category": "Getreide",
 		"defname": "RC2_RawOats"
 	},
 	{
@@ -5301,7 +5301,7 @@
 	{
 		"abr": "onions",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawOnion"
 	},
 	{
@@ -5397,13 +5397,13 @@
 	{
 		"abr": "peaches",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPeaches"
 	},
 	{
 		"abr": "pecans",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPecans"
 	},
 	{
@@ -5433,7 +5433,7 @@
 	{
 		"abr": "perch",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawPerch"
 	},
 	{
@@ -5499,7 +5499,7 @@
 	{
 		"abr": "pickledvegetables",
 		"price": 2,
-		"category": "Processed vegetables",
+		"category": "verarbeitetes Vegetarisches",
 		"defname": "RC2_PickledVegetables"
 	},
 	{
@@ -5523,7 +5523,7 @@
 	{
 		"abr": "pineapples",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPineapples"
 	},
 	{
@@ -5541,7 +5541,7 @@
 	{
 		"abr": "piranha",
 		"price": 5,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawPiranha"
 	},
 	{
@@ -5583,7 +5583,7 @@
 	{
 		"abr": "plums",
 		"price": 2,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPlums"
 	},
 	{
@@ -5625,7 +5625,7 @@
 	{
 		"abr": "pomegranates",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPomegranates"
 	},
 	{
@@ -5673,7 +5673,7 @@
 	{
 		"abr": "potatomash",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_PotatoMash"
 	},
 	{
@@ -5757,7 +5757,7 @@
 	{
 		"abr": "pufferfish",
 		"price": 5,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawPufferfish"
 	},
 	{
@@ -5787,7 +5787,7 @@
 	{
 		"abr": "pumpkins",
 		"price": 3,
-		"category": "Raw fruits",
+		"category": "Früchte",
 		"defname": "RC2_RawPumpkins"
 	},
 	{
@@ -5835,7 +5835,7 @@
 	{
 		"abr": "quinoa",
 		"price": 3,
-		"category": "Raw grains",
+		"category": "Getreide",
 		"defname": "RC2_RawQuinoa"
 	},
 	{
@@ -6009,7 +6009,7 @@
 	{
 		"abr": "rectifiedspirits",
 		"price": 117,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Everclear"
 	},
 	{
@@ -6093,7 +6093,7 @@
 	{
 		"abr": "ricemash",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_RiceMash"
 	},
 	{
@@ -6273,7 +6273,7 @@
 	{
 		"abr": "rum",
 		"price": 35,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Rum"
 	},
 	{
@@ -6303,7 +6303,7 @@
 	{
 		"abr": "sake",
 		"price": 21,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Sake"
 	},
 	{
@@ -6315,7 +6315,7 @@
 	{
 		"abr": "salmon",
 		"price": 17,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawSalmon"
 	},
 	{
@@ -6639,43 +6639,43 @@
 	{
 		"abr": "simpleanimalearimplant",
 		"price": 121,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "EarAnimalSimple"
 	},
 	{
 		"abr": "simpleanimaljawimplant",
 		"price": 121,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "JawAnimalSimple"
 	},
 	{
 		"abr": "simpleanimalnose",
 		"price": 121,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "NoseAnimalSimple"
 	},
 	{
 		"abr": "simpleanimalspine",
 		"price": 202,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "SpineAnimalSimple"
 	},
 	{
 		"abr": "simpleprostheticanimalarm",
 		"price": 218,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "SimpleProstheticArmAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimalleg",
 		"price": 218,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "SimpleProstheticLegAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimaltail",
 		"price": 112,
-		"category": "Animal Body Part",
+		"category": "Bionische Gliedmaßen für Tiere",
 		"defname": "ProstheticTailAnimal"
 	},
 	{
@@ -6765,7 +6765,7 @@
 	{
 		"abr": "snappeas",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawSnapPeas"
 	},
 	{
@@ -6825,13 +6825,13 @@
 	{
 		"abr": "sorghum",
 		"price": 2,
-		"category": "Raw grains",
+		"category": "Getreide",
 		"defname": "RC2_RawSorghum"
 	},
 	{
 		"abr": "soybeans",
 		"price": 3,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawSoybean"
 	},
 	{
@@ -6879,7 +6879,7 @@
 	{
 		"abr": "sprat",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawSprat"
 	},
 	{
@@ -7119,7 +7119,7 @@
 	{
 		"abr": "stout",
 		"price": 21,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Stout"
 	},
 	{
@@ -7191,13 +7191,13 @@
 	{
 		"abr": "sugar",
 		"price": 8,
-		"category": "Processed sweets",
+		"category": "verarbeitetes Süsses",
 		"defname": "RC2_Sugar"
 	},
 	{
 		"abr": "sugarbeets",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawSugarBeets"
 	},
 	{
@@ -7209,7 +7209,7 @@
 	{
 		"abr": "sugarcanewort",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_SugarcaneWort"
 	},
 	{
@@ -7233,7 +7233,7 @@
 	{
 		"abr": "swordfish",
 		"price": 25,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawSwordfish"
 	},
 	{
@@ -7383,7 +7383,7 @@
 	{
 		"abr": "tequila",
 		"price": 37,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Tequila"
 	},
 	{
@@ -7521,7 +7521,7 @@
 	{
 		"abr": "tofu",
 		"price": 7,
-		"category": "Processed meat",
+		"category": "verarbeitetes Fleisch",
 		"defname": "RC2_Tofu"
 	},
 	{
@@ -7539,7 +7539,7 @@
 	{
 		"abr": "tomatoes",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawTomato"
 	},
 	{
@@ -7611,13 +7611,13 @@
 	{
 		"abr": "trout",
 		"price": 3,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawTrout"
 	},
 	{
 		"abr": "truffles",
 		"price": 3,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawTruffles"
 	},
 	{
@@ -7647,7 +7647,7 @@
 	{
 		"abr": "tuna",
 		"price": 7,
-		"category": "Raw fish",
+		"category": "Fisch",
 		"defname": "VCEF_RawTuna"
 	},
 	{
@@ -7869,7 +7869,7 @@
 	{
 		"abr": "vodka",
 		"price": 30,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Vodka"
 	},
 	{
@@ -8097,7 +8097,7 @@
 	{
 		"abr": "wheatwort",
 		"price": 4,
-		"category": "Alcohol precursors",
+		"category": "Alkohol",
 		"defname": "RC2_WheatWort"
 	},
 	{
@@ -8109,7 +8109,7 @@
 	{
 		"abr": "whiskey",
 		"price": 40,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Whiskey"
 	},
 	{
@@ -8157,7 +8157,7 @@
 	{
 		"abr": "wine",
 		"price": 42,
-		"category": "Alcohol",
+		"category": "Alkohol",
 		"defname": "RC2_Wine"
 	},
 	{
@@ -8217,7 +8217,7 @@
 	{
 		"abr": "yams",
 		"price": 2,
-		"category": "Raw vegetables",
+		"category": "Vegetarisch",
 		"defname": "RC2_RawYams"
 	},
 	{
