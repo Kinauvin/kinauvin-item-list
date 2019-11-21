@@ -165,61 +165,61 @@
 	{
 		"abr": "12x64mmchargedcartridge",
 		"price": 5,
-		"category": "12x64mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_12x64mmCharged"
 	},
 	{
 		"abr": "14.5x114mmcartridge(ap-i)",
 		"price": 2,
-		"category": "14.5x114mm",
+		"category": "Munition",
 		"defname": "Ammo_145x114mm_Incendiary"
 	},
 	{
 		"abr": "14.5x114mmcartridge(fmj)",
 		"price": 1,
-		"category": "14.5x114mm",
+		"category": "Munition",
 		"defname": "Ammo_145x114mm_FMJ"
 	},
 	{
 		"abr": "14.5x114mmcartridge(he)",
 		"price": 2,
-		"category": "14.5x114mm",
+		"category": "Munition",
 		"defname": "Ammo_145x114mm_HE"
 	},
 	{
 		"abr": "14.5x114mmcartridge(sabot)",
 		"price": 1,
-		"category": "14.5x114mm",
+		"category": "Munition",
 		"defname": "Ammo_145x114mm_Sabot"
 	},
 	{
 		"abr": "30x29mmgrenade(emp)",
 		"price": 8,
-		"category": "30x29mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_30x29mmGrenade_EMP"
 	},
 	{
 		"abr": "30x29mmgrenade(he)",
 		"price": 5,
-		"category": "30x29mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_30x29mmGrenade_HE"
 	},
 	{
 		"abr": "30x64mmfuelcell(foam)",
 		"price": 1,
-		"category": "30x64mm Fuel Cell",
+		"category": "Munition",
 		"defname": "Ammo_30x64mmFuel_Foam"
 	},
 	{
 		"abr": "30x64mmfuelcell(incendiary)",
 		"price": 3,
-		"category": "30x64mm Fuel Cell",
+		"category": "Munition",
 		"defname": "Ammo_30x64mmFuel_Incendiary"
 	},
 	{
 		"abr": "30x64mmfuelcell(thermobaric)",
 		"price": 4,
-		"category": "30x64mm Fuel Cell",
+		"category": "Munition",
 		"defname": "Ammo_30x64mmFuel_Thermobaric"
 	},
 	{
@@ -231,295 +231,295 @@
 	{
 		"abr": "40x46mmgrenade(emp)",
 		"price": 8,
-		"category": "40x46mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_40x46mmGrenade_EMP"
 	},
 	{
 		"abr": "40x46mmgrenade(he)",
 		"price": 4,
-		"category": "40x46mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_40x46mmGrenade_HE"
 	},
 	{
 		"abr": "40x53mmgrenade(emp)",
 		"price": 4,
-		"category": "40x53mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_40x53mmGrenade_EMP"
 	},
 	{
 		"abr": "40x53mmgrenade(he)",
 		"price": 4,
-		"category": "40x53mm Grenade",
+		"category": "Munition",
 		"defname": "Ammo_40x53mmGrenade_HE"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(ap)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_AP"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(ap-i)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_Incendiary"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(fmj)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_FMJ"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(he)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_HE"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(hp)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_HP"
 	},
 	{
 		"abr": "5.45x39mmsovietcartridge(sabot)",
 		"price": 1,
-		"category": "5.45x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_545x39mmSoviet_Sabot"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(ap)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_AP"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(ap-i)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_Incendiary"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(fmj)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_FMJ"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(he)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_HE"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(hp)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_HP"
 	},
 	{
 		"abr": "5.56x45mmnatocartridge(sabot)",
 		"price": 1,
-		"category": "5.56x45mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_556x45mmNATO_Sabot"
 	},
 	{
 		"abr": "5x35mmchargedcartridge",
 		"price": 2,
-		"category": "5x35mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_5x35mmCharged"
 	},
 	{
 		"abr": "6x18mmchargedcartridge",
 		"price": 1,
-		"category": "6x18mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x18mmCharged"
 	},
 	{
 		"abr": "6x18mmchargedcartridge(conc.)",
 		"price": 1,
-		"category": "6x18mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x18mmCharged_AP"
 	},
 	{
 		"abr": "6x18mmchargedcartridge(ion)",
 		"price": 1,
-		"category": "6x18mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x18mmCharged_Ion"
 	},
 	{
 		"abr": "6x24mmchargedcartridge",
 		"price": 2,
-		"category": "6x24mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x24mmCharged"
 	},
 	{
 		"abr": "6x24mmchargedcartridge(conc.)",
 		"price": 2,
-		"category": "6x24mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x24mmCharged_AP"
 	},
 	{
 		"abr": "6x24mmchargedcartridge(ion)",
 		"price": 2,
-		"category": "6x24mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_6x24mmCharged_Ion"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(ap)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_AP"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(ap-i)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_Incendiary"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(fmj)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_FMJ"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(he)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_HE"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(hp)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_HP"
 	},
 	{
 		"abr": "7.62x39mmsovietcartridge(sabot)",
 		"price": 3,
-		"category": "7.62x39mm Soviet",
+		"category": "Munition",
 		"defname": "Ammo_762x39mmSoviet_Sabot"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(ap)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_AP"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(ap-i)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_Incendiary"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(fmj)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_FMJ"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(he)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_HE"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(hp)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_HP"
 	},
 	{
 		"abr": "7.62x51mmnatocartridge(sabot)",
 		"price": 3,
-		"category": "7.62x51mm NATO",
+		"category": "Munition",
 		"defname": "Ammo_762x51mmNATO_Sabot"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(ap)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_AP"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(ap-i)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_Incendiary"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(fmj)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_FMJ"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(he)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_HE"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(hp)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_HP"
 	},
 	{
 		"abr": "7.62x54mmrcartridge(sabot)",
 		"price": 3,
-		"category": "7.62x54mmR",
+		"category": "Munition",
 		"defname": "Ammo_762x54mmR_Sabot"
 	},
 	{
 		"abr": "80x256mmfuelcell(thermobaric)",
 		"price": 48,
-		"category": "80x256mm Fuel Cell",
+		"category": "Munition",
 		"defname": "Ammo_80x256mmFuel_Thermobaric"
 	},
 	{
 		"abr": "81mmmortarshell(nanoswarm)",
 		"price": 62,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Nanoswarm_shell_81mm"
 	},
 	{
 		"abr": "8x35mmchargedcartridge",
 		"price": 2,
-		"category": "8x35mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_8x35mmCharged"
 	},
 	{
 		"abr": "8x35mmchargedcartridge(conc.)",
 		"price": 2,
-		"category": "8x35mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_8x35mmCharged_AP"
 	},
 	{
 		"abr": "8x35mmchargedcartridge(ion)",
 		"price": 2,
-		"category": "8x35mm Charged",
+		"category": "Munition",
 		"defname": "Ammo_8x35mmCharged_Ion"
 	},
 	{
 		"abr": "90mmcannonshell(emp)",
 		"price": 268,
-		"category": "90mm cannon shell",
+		"category": "Munition",
 		"defname": "Ammo_90mmCannonShell_EMP"
 	},
 	{
 		"abr": "90mmcannonshell(he)",
 		"price": 183,
-		"category": "90mm cannon shell",
+		"category": "Munition",
 		"defname": "Ammo_90mmCannonShell_HE"
 	},
 	{
 		"abr": "90mmcannonshell(heat)",
 		"price": 155,
-		"category": "90mm cannon shell",
+		"category": "Munition",
 		"defname": "Ammo_90mmCannonShell_HEAT"
 	},
 	{
@@ -543,7 +543,7 @@
 	{
 		"abr": "abyssiniancat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatAbyssinian"
 	},
 	{
@@ -639,7 +639,7 @@
 	{
 		"abr": "affe",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Monkey"
 	},
 	{
@@ -723,7 +723,7 @@
 	{
 		"abr": "alpaka",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Alpaca"
 	},
 	{
@@ -741,7 +741,7 @@
 	{
 		"abr": "alphabiber",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Alphabeaver"
 	},
 	{
@@ -825,7 +825,7 @@
 	{
 		"abr": "antimateriegefechtskopf",
 		"price": 2500,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
@@ -939,7 +939,7 @@
 	{
 		"abr": "arcticcoyote",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_ArcticCoyote"
 	},
 	{
@@ -1251,13 +1251,13 @@
 	{
 		"abr": "beagle",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Beagle"
 	},
 	{
 		"abr": "beagle",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Keanu_Dog"
 	},
 	{
@@ -1323,7 +1323,7 @@
 	{
 		"abr": "bengalcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatBengal"
 	},
 	{
@@ -1551,7 +1551,7 @@
 	{
 		"abr": "bison",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Bison"
 	},
 	{
@@ -1569,7 +1569,7 @@
 	{
 		"abr": "blackbear",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_BlackBear"
 	},
 	{
@@ -1617,7 +1617,7 @@
 	{
 		"abr": "boomalope",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Boomalope"
 	},
 	{
@@ -1629,7 +1629,7 @@
 	{
 		"abr": "boomratte",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Boomrat"
 	},
 	{
@@ -1653,7 +1653,7 @@
 	{
 		"abr": "brandgranate",
 		"price": 71,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Shell_Incendiary"
 	},
 	{
@@ -1701,7 +1701,7 @@
 	{
 		"abr": "britishshorthaircat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatBritishShorthair"
 	},
 	{
@@ -1737,7 +1737,7 @@
 	{
 		"abr": "camel",
 		"price": 533,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Camel"
 	},
 	{
@@ -1863,7 +1863,7 @@
 	{
 		"abr": "cheetah",
 		"price": 667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Cheetah"
 	},
 	{
@@ -1881,7 +1881,7 @@
 	{
 		"abr": "chemicalprocessingunit",
 		"price": 1333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AndroidChicken"
 	},
 	{
@@ -1899,7 +1899,7 @@
 	{
 		"abr": "chihuahua",
 		"price": 550,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Chihuahua"
 	},
 	{
@@ -1917,7 +1917,7 @@
 	{
 		"abr": "chinchilla",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Chinchilla"
 	},
 	{
@@ -2175,7 +2175,7 @@
 	{
 		"abr": "corgi",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Corgi"
 	},
 	{
@@ -2235,7 +2235,7 @@
 	{
 		"abr": "coyote",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Coyote"
 	},
 	{
@@ -2253,7 +2253,7 @@
 	{
 		"abr": "crocodile",
 		"price": 1333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Crocodile"
 	},
 	{
@@ -2397,7 +2397,7 @@
 	{
 		"abr": "deserttortoise",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_DesertTortoise"
 	},
 	{
@@ -2481,7 +2481,7 @@
 	{
 		"abr": "dromedar",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Dromedary"
 	},
 	{
@@ -2547,7 +2547,7 @@
 	{
 		"abr": "eichhörnchen",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Squirrel"
 	},
 	{
@@ -2601,7 +2601,7 @@
 	{
 		"abr": "eisbär",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Bear_Polar"
 	},
 	{
@@ -2613,7 +2613,7 @@
 	{
 		"abr": "elch",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Elk"
 	},
 	{
@@ -2637,7 +2637,7 @@
 	{
 		"abr": "elefant",
 		"price": 1000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Elephant"
 	},
 	{
@@ -2697,7 +2697,7 @@
 	{
 		"abr": "emp-granate",
 		"price": 187,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Shell_EMP"
 	},
 	{
@@ -2709,7 +2709,7 @@
 	{
 		"abr": "emu",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Emu"
 	},
 	{
@@ -2781,7 +2781,7 @@
 	{
 		"abr": "ente",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Duck"
 	},
 	{
@@ -2811,7 +2811,7 @@
 	{
 		"abr": "esel",
 		"price": 667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Donkey"
 	},
 	{
@@ -2991,7 +2991,7 @@
 	{
 		"abr": "frenchbulldog",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_FrenchBulldog"
 	},
 	{
@@ -3105,7 +3105,7 @@
 	{
 		"abr": "gans",
 		"price": 150,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Goose"
 	},
 	{
@@ -3129,7 +3129,7 @@
 	{
 		"abr": "gazelle",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Gazelle"
 	},
 	{
@@ -3201,7 +3201,7 @@
 	{
 		"abr": "germanshepherd",
 		"price": 750,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_GermanShepherd"
 	},
 	{
@@ -3225,7 +3225,7 @@
 	{
 		"abr": "gilamonster",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_GilaMonster"
 	},
 	{
@@ -3267,7 +3267,7 @@
 	{
 		"abr": "giraffe",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Giraffe"
 	},
 	{
@@ -3369,7 +3369,7 @@
 	{
 		"abr": "greatdane",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_GreatDane"
 	},
 	{
@@ -3393,7 +3393,7 @@
 	{
 		"abr": "grizzlybär",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Bear_Grizzly"
 	},
 	{
@@ -3507,7 +3507,7 @@
 	{
 		"abr": "hase",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Hare"
 	},
 	{
@@ -3531,7 +3531,7 @@
 	{
 		"abr": "he-granate",
 		"price": 92,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Shell_HighExplosive"
 	},
 	{
@@ -3657,7 +3657,7 @@
 	{
 		"abr": "hippopotamus",
 		"price": 1333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Hippopotamus"
 	},
 	{
@@ -3693,7 +3693,7 @@
 	{
 		"abr": "höhlenkäfer",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Spelopede"
 	},
 	{
@@ -3777,7 +3777,7 @@
 	{
 		"abr": "huhn",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Chicken"
 	},
 	{
@@ -3807,7 +3807,7 @@
 	{
 		"abr": "husky",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Husky"
 	},
 	{
@@ -3849,7 +3849,7 @@
 	{
 		"abr": "hyena",
 		"price": 308,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Hyena"
 	},
 	{
@@ -3945,7 +3945,7 @@
 	{
 		"abr": "k-9cyberneticunit",
 		"price": 14167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AndroidDog"
 	},
 	{
@@ -3981,7 +3981,7 @@
 	{
 		"abr": "kasuar",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Cassowary"
 	},
 	{
@@ -3993,7 +3993,7 @@
 	{
 		"abr": "katze",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Cat"
 	},
 	{
@@ -4053,7 +4053,7 @@
 	{
 		"abr": "kobra",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Cobra"
 	},
 	{
@@ -4233,7 +4233,7 @@
 	{
 		"abr": "labrador-retriever",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "LabradorRetriever"
 	},
 	{
@@ -4245,7 +4245,7 @@
 	{
 		"abr": "landschildkröte",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Tortoise"
 	},
 	{
@@ -4269,7 +4269,7 @@
 	{
 		"abr": "lanzer",
 		"price": 800,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Mech_Lancer"
 	},
 	{
@@ -4323,7 +4323,7 @@
 	{
 		"abr": "leguan",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Iguana"
 	},
 	{
@@ -4425,7 +4425,7 @@
 	{
 		"abr": "lion",
 		"price": 2000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Lion"
 	},
 	{
@@ -4461,7 +4461,7 @@
 	{
 		"abr": "löschschaumgranate",
 		"price": 62,
-		"category": "81mm mortar shell",
+		"category": "Munition",
 		"defname": "Shell_Firefoam"
 	},
 	{
@@ -4473,7 +4473,7 @@
 	{
 		"abr": "luchs",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Lynx"
 	},
 	{
@@ -4515,7 +4515,7 @@
 	{
 		"abr": "m.u.f.funit",
 		"price": 2000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AndroidMuff"
 	},
 	{
@@ -4533,7 +4533,7 @@
 	{
 		"abr": "m7mechanisedinfantry",
 		"price": 30000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "M7Mech"
 	},
 	{
@@ -4581,7 +4581,7 @@
 	{
 		"abr": "mainecoon",
 		"price": 1250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatMaineCoon"
 	},
 	{
@@ -4737,7 +4737,7 @@
 	{
 		"abr": "meerschweinchen",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_GuineaPig"
 	},
 	{
@@ -4755,13 +4755,13 @@
 	{
 		"abr": "megascorpion",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Megascorpion"
 	},
 	{
 		"abr": "megawolverine",
 		"price": 1417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_MegaWolverine"
 	},
 	{
@@ -4803,7 +4803,7 @@
 	{
 		"abr": "mensch",
 		"price": 2917,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Human"
 	},
 	{
@@ -4845,7 +4845,7 @@
 	{
 		"abr": "microscyther",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "MicroScyther"
 	},
 	{
@@ -4947,7 +4947,7 @@
 	{
 		"abr": "moose",
 		"price": 750,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Moose"
 	},
 	{
@@ -5001,7 +5001,7 @@
 	{
 		"abr": "muffalo",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Muffalo"
 	},
 	{
@@ -5019,7 +5019,7 @@
 	{
 		"abr": "munchkincat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatMunchkin"
 	},
 	{
@@ -5055,7 +5055,7 @@
 	{
 		"abr": "muskox",
 		"price": 475,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Muskox"
 	},
 	{
@@ -5079,7 +5079,7 @@
 	{
 		"abr": "n.solutionunit",
 		"price": 2667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "RoboticCow"
 	},
 	{
@@ -5163,7 +5163,7 @@
 	{
 		"abr": "nashorn",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Rhinoceros"
 	},
 	{
@@ -5235,7 +5235,7 @@
 	{
 		"abr": "norwegianforestcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatNorwegianForest"
 	},
 	{
@@ -5331,7 +5331,7 @@
 	{
 		"abr": "otter",
 		"price": 283,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Otter"
 	},
 	{
@@ -5355,7 +5355,7 @@
 	{
 		"abr": "panther",
 		"price": 667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Panther"
 	},
 	{
@@ -5415,7 +5415,7 @@
 	{
 		"abr": "penguin",
 		"price": 200,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Penguin"
 	},
 	{
@@ -5439,7 +5439,7 @@
 	{
 		"abr": "persiancat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatPersian"
 	},
 	{
@@ -5451,7 +5451,7 @@
 	{
 		"abr": "pferd",
 		"price": 917,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Horse"
 	},
 	{
@@ -5475,7 +5475,7 @@
 	{
 		"abr": "phytominingunit",
 		"price": 2667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "RoboticSheep"
 	},
 	{
@@ -5607,13 +5607,13 @@
 	{
 		"abr": "polarfuchs",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "polarwolf",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Wolf_Arctic"
 	},
 	{
@@ -5631,7 +5631,7 @@
 	{
 		"abr": "poodle",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Poodle"
 	},
 	{
@@ -5643,7 +5643,7 @@
 	{
 		"abr": "porcupine",
 		"price": 200,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Porcupine"
 	},
 	{
@@ -5763,7 +5763,7 @@
 	{
 		"abr": "pug",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Pug"
 	},
 	{
@@ -5775,7 +5775,7 @@
 	{
 		"abr": "puma",
 		"price": 667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Cougar"
 	},
 	{
@@ -5877,7 +5877,7 @@
 	{
 		"abr": "ratte",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Rat"
 	},
 	{
@@ -5889,7 +5889,7 @@
 	{
 		"abr": "rattlesnake",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Rattlesnake"
 	},
 	{
@@ -5961,7 +5961,7 @@
 	{
 		"abr": "raupe",
 		"price": 2900,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Mech_Centipede"
 	},
 	{
@@ -6039,7 +6039,7 @@
 	{
 		"abr": "rentier",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Caribou"
 	},
 	{
@@ -6105,19 +6105,19 @@
 	{
 		"abr": "riesenfaultier",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Megasloth"
 	},
 	{
 		"abr": "riesenskarabäus",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Megascarab"
 	},
 	{
 		"abr": "riesenspinne",
 		"price": 833,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Megaspider"
 	},
 	{
@@ -6147,7 +6147,7 @@
 	{
 		"abr": "rind",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Cow"
 	},
 	{
@@ -6213,13 +6213,13 @@
 	{
 		"abr": "rotfuchs",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "rottweiler",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Rottweiler"
 	},
 	{
@@ -6231,7 +6231,7 @@
 	{
 		"abr": "rotwild",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Deer"
 	},
 	{
@@ -6375,7 +6375,7 @@
 	{
 		"abr": "schaf",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Sheep"
 	},
 	{
@@ -6489,13 +6489,13 @@
 	{
 		"abr": "schneehase",
 		"price": 100,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Snowhare"
 	},
 	{
 		"abr": "schnitter",
 		"price": 800,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Mech_Scyther"
 	},
 	{
@@ -6537,7 +6537,7 @@
 	{
 		"abr": "schwein",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Pig"
 	},
 	{
@@ -6573,7 +6573,7 @@
 	{
 		"abr": "seal",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Seal"
 	},
 	{
@@ -6609,7 +6609,7 @@
 	{
 		"abr": "shih-tzu",
 		"price": 500,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Shih-Tzu"
 	},
 	{
@@ -6621,7 +6621,7 @@
 	{
 		"abr": "siamesecat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatSiamese"
 	},
 	{
@@ -6813,7 +6813,7 @@
 	{
 		"abr": "somalicat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatSomali"
 	},
 	{
@@ -6855,7 +6855,7 @@
 	{
 		"abr": "sphynxcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_CatSphynx"
 	},
 	{
@@ -7077,7 +7077,7 @@
 	{
 		"abr": "steinbock",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Ibex"
 	},
 	{
@@ -7131,7 +7131,7 @@
 	{
 		"abr": "strauß",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Ostrich"
 	},
 	{
@@ -7287,31 +7287,31 @@
 	{
 		"abr": "t1android",
 		"price": 2333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Android1Tier"
 	},
 	{
 		"abr": "t2android",
 		"price": 4167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Android2Tier"
 	},
 	{
 		"abr": "t3android",
 		"price": 8000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Android3Tier"
 	},
 	{
 		"abr": "t4android",
 		"price": 10000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Android4Tier"
 	},
 	{
 		"abr": "t5android",
 		"price": 13333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Android5Tier"
 	},
 	{
@@ -7431,7 +7431,7 @@
 	{
 		"abr": "thrumbo",
 		"price": 6667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Thrumbo"
 	},
 	{
@@ -7479,7 +7479,7 @@
 	{
 		"abr": "timberwolf",
 		"price": 583,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Wolf_Timber"
 	},
 	{
@@ -7623,7 +7623,7 @@
 	{
 		"abr": "truthahn",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Turkey"
 	},
 	{
@@ -7959,7 +7959,7 @@
 	{
 		"abr": "walrus",
 		"price": 917,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Walrus"
 	},
 	{
@@ -7977,7 +7977,7 @@
 	{
 		"abr": "warg",
 		"price": 750,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Warg"
 	},
 	{
@@ -7989,7 +7989,7 @@
 	{
 		"abr": "waschbär",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Raccoon"
 	},
 	{
@@ -8031,7 +8031,7 @@
 	{
 		"abr": "wasserschwein",
 		"price": 250,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Capybara"
 	},
 	{
@@ -8073,7 +8073,7 @@
 	{
 		"abr": "welshterrier",
 		"price": 417,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_WelshTerrier"
 	},
 	{
@@ -8121,7 +8121,7 @@
 	{
 		"abr": "wildebeest",
 		"price": 567,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Wildebeest"
 	},
 	{
@@ -8139,7 +8139,7 @@
 	{
 		"abr": "wildschwein",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "WildBoar"
 	},
 	{
@@ -8199,13 +8199,13 @@
 	{
 		"abr": "wüstenfuchs",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "Fox_Fennec"
 	},
 	{
 		"abr": "yak",
 		"price": 667,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Yak"
 	},
 	{
@@ -8235,7 +8235,7 @@
 	{
 		"abr": "yorkshire-terrier",
 		"price": 167,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "YorkshireTerrier"
 	},
 	{
@@ -8253,7 +8253,7 @@
 	{
 		"abr": "zebra",
 		"price": 1000,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Zebra"
 	},
 	{
@@ -8265,7 +8265,7 @@
 	{
 		"abr": "ziege",
 		"price": 333,
-		"category": "Animal",
+		"category": "Tier",
 		"defname": "AEXP_Goat"
 	},
 	{
