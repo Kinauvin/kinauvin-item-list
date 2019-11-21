@@ -40,17 +40,17 @@
                 <h1 class="display-3">TwitchToolkit</h1>
                 <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat votes, awards viewers coins for watching, and those coins can be spent on items/events in game.</p>
                 <ul class="list-group">
-                    <li class="list-group-item">!bal - zeigt euren Kontostand und euer Karma an</li>
+                    <li class="list-group-item">!bal - Zeigt euren Konto- und Karmastand an</li>
                     <li class="list-group-item">!buy - Syntax: !buy Item Anzahl - kauft einen Gegenstand oder ein Event</li>
                     <li class="list-group-item">!whatiskarma - erklärt euch was Karma ist</li>
-                    <li class="list-group-item">!purchaselist - damit landet ihr hier</li>
                     <li class="list-group-item">!instructions - Anleitung für dieses Mod</li>
                     <li class="list-group-item">!modinfo - Infos zum Mod</li>
-                    <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username Anzahl - Gebt einem anderen Zuschauer eure coins</li>
+                    <li class="list-group-item">!giftcoins - Syntax: !giftcoins @username Anzahl - Gebt einem anderen Zuschauer eure Coins</li>
                     <li class="list-group-item">!toolkitcmds - Zeigt alle Kommandos an</li>
                     <li class="list-group-item">!buy ticket - Tretet der Liste für Kolonistennamen bei</li>
                     <li class="list-group-item">!mypawnstory - Zeigt die Hintergrundgeschichte eures Kolonisten an</li>
-                    <li class="list-group-item">!mypawnskills - Zeigt die Skills eures Kolonisten an</li>
+                    <li class="list-group-item">!mypawnskills - Zeigt die Skills eures Kolonisten an</li>			
+                    <li class="list-group-item">!purchaselist - Damit landet ihr genau hier :)</li>
                 </ul>
             </div>
         </div>
@@ -62,14 +62,14 @@
                             <form>
                                 <div class="form-group">
                                     <button class="btn btn-success" ng-class="{'active': (selected == '1')}" ng-click='selected=1'>
-                                        Items
+                                        Gegenstände
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
-                                        Events
+                                        Ereignisse
                                     </button>
                                 </div>
                                 <div class="form-group row">
-                                    <label class="col-sm-2 col-form-label" for="">Price Between:</label>
+                                    <label class="col-sm-2 col-form-label" for="">Preisspanne:</label>
                                     <div class="col-sm-2">
                                         <input type="number" class="form-control" id="item-price-min" placeholder="0">
                                     </div>
